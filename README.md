@@ -121,3 +121,6 @@ I'm a passionate developer who loves building modern, scalable and user-friendly
 ### Building the future with AI & Code 🚀
 
 </div>
+## 🐍 Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/waqaryunusm2s-cloud/waqaryunusm2s-cloud/output/github-contribution-grid-snake.svg)
