@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs" height="55" />
+<!-- Animated Tech Stack Icons -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs&theme=dark" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=ZAIN;FULL+STACK+DEVELOPER;AI+ENGINEERING" />
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=ZAIN;FULL+STACK+DEVELOPER;EXPLORING+AI+ENGINEERING" />
+
+<br/>
 
 ### Full Stack Developer | React | Node.js | AI Engineering
 
@@ -18,13 +22,14 @@ Building scalable, modern and user-friendly web applications.
 
 <br/>
 
+<!-- Contact Badges -->
 <a href="mailto:waqaryunusm2s@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/waqaryunusm2s-cloud">
-  <img src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/just_zainn/">
+<a href="https://www.instagram.com/just_zainn">
   <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -51,60 +56,115 @@ I enjoy transforming ideas into functional digital products, developing reliable
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
+<p align="left">
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATERIAL--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & API Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
+<p align="left">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-FF6B6B?style=for-the-badge" />
 </p>
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+### 🤖 AI/ML Engineering
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+<p align="left">
+  <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LANGGRAPH-7B2CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VECTOR_DB-00BCD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTI--AGENT-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ZOD-3068B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TAVILY-000000?style=for-the-badge" />
 </p>
-
-### 🤖 AI / ML Engineering
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-7B2CBF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6B00?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-00BCD4?style=for-the-badge)
-![Multi Agent](https://img.shields.io/badge/Multi_Agent-FF5722?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,githubactions,vercel" />
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CURSOR_AI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AGILE-00AEEF?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 AI Engineering & Projects
+## 🚀 AI Projects Experience
 
-| Project | Description | Technologies |
-|---|---|---|
-| Chat Agents | Conversational AI applications | LangChain, OpenAI, RAG |
-| Search Agents | AI-powered search and retrieval | LangGraph, Vector Stores |
-| PDF AI Viewer | Document analysis and question answering | Embeddings, Metadata Extraction |
-| Knowledge Base | Retrieval-augmented knowledge systems | RAG Pipelines, Vector DB |
-| Summarization | Intelligent text and document summarization | LLMs, Prompt Engineering |
-| Multi-Agent Systems | AI agents collaborating on complex tasks | LangGraph, Multi-Agent Orchestration |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><b>Chat Agents</b></td>
+    <td>LangChain, OpenAI GPT, RAG</td>
+  </tr>
+  <tr>
+    <td><b>Search Agents</b></td>
+    <td>Tavily, LangGraph, Vector Stores</td>
+  </tr>
+  <tr>
+    <td><b>Summarization</b></td>
+    <td>LLM, Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><b>PDF AI Viewer</b></td>
+    <td>Embeddings, Metadata Extraction</td>
+  </tr>
+  <tr>
+    <td><b>Knowledge Base Assistants</b></td>
+    <td>RAG Pipelines, Vector DB</td>
+  </tr>
+  <tr>
+    <td><b>Multi-Agent Systems</b></td>
+    <td>LangGraph, Human-in-the-loop</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqaryunusm2s-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqaryunusm2s-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaryunusm2s-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -116,7 +176,7 @@ I enjoy transforming ideas into functional digital products, developing reliable
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -136,11 +196,13 @@ I enjoy transforming ideas into functional digital products, developing reliable
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 🤝 Let's Connect
-
 I'm always open to interesting projects, collaborations and opportunities.
+
+<br/>
 
 <a href="mailto:waqaryunusm2s@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -148,14 +210,14 @@ I'm always open to interesting projects, collaborations and opportunities.
 <a href="https://github.com/waqaryunusm2s-cloud">
   <img src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/just_zainn/">
+<a href="https://www.instagram.com/just_zainn">
   <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=waqaryunusm2s-cloud&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 ### Building the future with AI & Code 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=waqaryunusm2s-cloud&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
