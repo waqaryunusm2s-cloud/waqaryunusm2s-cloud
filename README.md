@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Waqar
+# 👋 Hi, I'm Zain
 
 ### Full Stack Developer | React | Node.js | AI Engineering
 
