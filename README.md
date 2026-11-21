@@ -85,3 +85,39 @@ I'm a passionate developer who loves building modern, scalable and user-friendly
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqaryunusm2s-cloud)
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waqaryunusm2s-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaryunusm2s-cloud&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=waqaryunusm2s-cloud&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waqaryunusm2s-cloud&theme=tokyo-night&hide_border=true)](https://github.com/waqaryunusm2s-cloud)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=waqaryunusm2s-cloud&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+### Building the future with AI & Code 🚀
+
+</div>
